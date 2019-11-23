@@ -1,0 +1,18 @@
+[package]
+name = "eartrainer-rs"
+version = "0.1.0"
+authors = ["alexcarol <alex.carol.c@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tts = "0.2.1"
+
+[dependencies.synthrs]
+git = "https://github.com/gyng/synthrs"
+rev = "master"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+
